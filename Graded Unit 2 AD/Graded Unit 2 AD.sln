@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graded Unit 2 AD", "Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD.csproj", "{0515E34D-EAF8-4C30-A795-88CFB5186538}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Graded Unit 2 ADContent", "Graded Unit 2 AD\Graded Unit 2 ADContent\Graded Unit 2 ADContent.contentproj", "{2CE4E695-ACF8-4F68-BB8E-1C883AADA7FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0515E34D-EAF8-4C30-A795-88CFB5186538}.Debug|x86.ActiveCfg = Debug|x86
+		{0515E34D-EAF8-4C30-A795-88CFB5186538}.Debug|x86.Build.0 = Debug|x86
+		{0515E34D-EAF8-4C30-A795-88CFB5186538}.Release|x86.ActiveCfg = Release|x86
+		{0515E34D-EAF8-4C30-A795-88CFB5186538}.Release|x86.Build.0 = Release|x86
+		{2CE4E695-ACF8-4F68-BB8E-1C883AADA7FB}.Debug|x86.ActiveCfg = Debug|x86
+		{2CE4E695-ACF8-4F68-BB8E-1C883AADA7FB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

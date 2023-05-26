@@ -1,0 +1,680 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\CharacterSS\AutumnLeft01.png</Source>
+      <Name>Sprites\CharacterSS\AutumnLeft01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnLeft01.xnb</Output>
+      <Time>2015-04-26T15:07:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\CharacterSS\AutumnFront01.png</Source>
+      <Name>Sprites\CharacterSS\AutumnFront01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnFront01.xnb</Output>
+      <Time>2015-04-26T15:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\CharacterSS\AutumnLeft02.png</Source>
+      <Name>Sprites\CharacterSS\AutumnLeft02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnLeft02.xnb</Output>
+      <Time>2015-04-27T12:06:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\CharacterSS\AutumnFront02.png</Source>
+      <Name>Sprites\CharacterSS\AutumnFront02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnFront02.xnb</Output>
+      <Time>2015-04-27T12:15:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Forest\BackgroundForest01.png</Source>
+      <Name>Sprites\Levels\Forest\BackgroundForest01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Forest\BackgroundForest01.xnb</Output>
+      <Time>2015-04-30T14:49:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Forest\MapForest01.png</Source>
+      <Name>Sprites\Levels\Forest\MapForest01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Forest\MapForest01.xnb</Output>
+      <Time>2015-05-02T20:43:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\House\MapHouse01.png</Source>
+      <Name>Sprites\Levels\House\MapHouse01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\House\MapHouse01.xnb</Output>
+      <Time>2015-05-11T13:22:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\City\MapCity01.png</Source>
+      <Name>Sprites\Levels\City\MapCity01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\City\MapCity01.xnb</Output>
+      <Time>2015-05-12T09:41:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\House\BackgroundHouse01.png</Source>
+      <Name>Sprites\Levels\House\BackgroundHouse01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\House\BackgroundHouse01.xnb</Output>
+      <Time>2015-05-12T02:47:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\City\BackgroundCity01.png</Source>
+      <Name>Sprites\Levels\City\BackgroundCity01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\City\BackgroundCity01.xnb</Output>
+      <Time>2015-05-12T09:28:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\lightaura.png</Source>
+      <Name>Sprites\ItemSprites\lightaura</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\lightaura.xnb</Output>
+      <Time>2015-05-16T22:54:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Interface\BlankScreen.png</Source>
+      <Name>Sprites\Interface\BlankScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\BlankScreen.xnb</Output>
+      <Time>2015-05-17T02:34:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Interface\MainMenuScreen.png</Source>
+      <Name>Sprites\Interface\MainMenuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\MainMenuScreen.xnb</Output>
+      <Time>2015-05-17T03:43:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Interface\StarSS.png</Source>
+      <Name>Sprites\Interface\StarSS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\StarSS.xnb</Output>
+      <Time>2015-05-17T04:13:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Interface\PauseMenuScreen.png</Source>
+      <Name>Sprites\Interface\PauseMenuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\PauseMenuScreen.xnb</Output>
+      <Time>2015-05-17T06:08:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Interface\InnerBar.png</Source>
+      <Name>Sprites\Interface\InnerBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\InnerBar.xnb</Output>
+      <Time>2015-05-17T06:38:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Interface\OutterBar.png</Source>
+      <Name>Sprites\Interface\OutterBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\OutterBar.xnb</Output>
+      <Time>2015-05-17T06:38:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\lampImage.png</Source>
+      <Name>Sprites\ItemSprites\lampImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\lampImage.xnb</Output>
+      <Time>2015-05-17T07:31:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\PotatoSmoke.png</Source>
+      <Name>Sprites\ItemSprites\PotatoSmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PotatoSmoke.xnb</Output>
+      <Time>2015-05-17T07:56:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Cave\BackgroundCave01.png</Source>
+      <Name>Sprites\Levels\Cave\BackgroundCave01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Cave\BackgroundCave01.xnb</Output>
+      <Time>2015-05-17T19:40:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Cave\MapCave01.png</Source>
+      <Name>Sprites\Levels\Cave\MapCave01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Cave\MapCave01.xnb</Output>
+      <Time>2015-05-17T19:40:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Camp\MapCamp01.png</Source>
+      <Name>Sprites\Levels\Camp\MapCamp01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Camp\MapCamp01.xnb</Output>
+      <Time>2015-05-17T21:05:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Diary\BackgroundDiary01.png</Source>
+      <Name>Sprites\Levels\Diary\BackgroundDiary01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\BackgroundDiary01.xnb</Output>
+      <Time>2015-05-17T23:56:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Diary\MapDiary00.png</Source>
+      <Name>Sprites\Levels\Diary\MapDiary00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary00.xnb</Output>
+      <Time>2015-05-18T00:11:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Diary\MapDiary02.png</Source>
+      <Name>Sprites\Levels\Diary\MapDiary02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary02.xnb</Output>
+      <Time>2015-05-18T00:21:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Diary\MapDiary04.png</Source>
+      <Name>Sprites\Levels\Diary\MapDiary04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary04.xnb</Output>
+      <Time>2015-05-18T00:29:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Diary\MapDiary06.png</Source>
+      <Name>Sprites\Levels\Diary\MapDiary06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary06.xnb</Output>
+      <Time>2015-05-18T00:42:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Diary\MapDiary08.png</Source>
+      <Name>Sprites\Levels\Diary\MapDiary08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary08.xnb</Output>
+      <Time>2015-05-18T00:42:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Levels\Diary\MapDiary10.png</Source>
+      <Name>Sprites\Levels\Diary\MapDiary10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary10.xnb</Output>
+      <Time>2015-05-18T00:42:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\AmmoGone.png</Source>
+      <Name>Sprites\ItemSprites\AmmoGone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\AmmoGone.xnb</Output>
+      <Time>2015-05-18T01:33:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\AmmoHere.png</Source>
+      <Name>Sprites\ItemSprites\AmmoHere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\AmmoHere.xnb</Output>
+      <Time>2015-05-18T01:33:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\HatGone.png</Source>
+      <Name>Sprites\ItemSprites\HatGone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\HatGone.xnb</Output>
+      <Time>2015-05-18T01:33:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\HatHere.png</Source>
+      <Name>Sprites\ItemSprites\HatHere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\HatHere.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\JacketGone.png</Source>
+      <Name>Sprites\ItemSprites\JacketGone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\JacketGone.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\JacketHere.png</Source>
+      <Name>Sprites\ItemSprites\JacketHere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\JacketHere.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\LampGone.png</Source>
+      <Name>Sprites\ItemSprites\LampGone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\LampGone.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\LampHere.png</Source>
+      <Name>Sprites\ItemSprites\LampHere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\LampHere.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\Map01Gone.png</Source>
+      <Name>Sprites\ItemSprites\Map01Gone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map01Gone.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\Map01Here.png</Source>
+      <Name>Sprites\ItemSprites\Map01Here</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map01Here.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\Map02Gone.png</Source>
+      <Name>Sprites\ItemSprites\Map02Gone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map02Gone.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\Map02Here.png</Source>
+      <Name>Sprites\ItemSprites\Map02Here</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map02Here.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\PickaxeGone.png</Source>
+      <Name>Sprites\ItemSprites\PickaxeGone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PickaxeGone.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\PickaxeHere.png</Source>
+      <Name>Sprites\ItemSprites\PickaxeHere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PickaxeHere.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\RadioGone.png</Source>
+      <Name>Sprites\ItemSprites\RadioGone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\RadioGone.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\RadioHere.png</Source>
+      <Name>Sprites\ItemSprites\RadioHere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\RadioHere.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\SamHatGone.png</Source>
+      <Name>Sprites\ItemSprites\SamHatGone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\SamHatGone.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ItemSprites\SamHatHere.png</Source>
+      <Name>Sprites\ItemSprites\SamHatHere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\SamHatHere.xnb</Output>
+      <Time>2015-05-18T01:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\npcFont.spritefont</Source>
+      <Name>Fonts\npcFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\npcFont.xnb</Output>
+      <Time>2015-05-08T17:52:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menuFont.spritefont</Source>
+      <Name>Fonts\menuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\menuFont.xnb</Output>
+      <Time>2015-05-17T05:02:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TitleFont.spritefont</Source>
+      <Name>Fonts\TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\TitleFont.xnb</Output>
+      <Time>2015-05-17T04:54:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\HintFont.spritefont</Source>
+      <Name>Fonts\HintFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\HintFont.xnb</Output>
+      <Time>2015-05-17T05:12:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\LightShader.fx</Source>
+      <Name>Effects\LightShader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Effects\LightShader.xnb</Output>
+      <Time>2015-05-16T22:49:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Score\Adrift_in_the_Cosmos.mp3</Source>
+      <Name>Score\Adrift_in_the_Cosmos</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Adrift_in_the_Cosmos.xnb</Output>
+      <Extra>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Adrift_in_the_Cosmos.wma</Extra>
+      <Time>2015-05-17T14:10:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Score\Quiet_Breeches_in_Space.mp3</Source>
+      <Name>Score\Quiet_Breeches_in_Space</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Quiet_Breeches_in_Space.xnb</Output>
+      <Extra>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Quiet_Breeches_in_Space.wma</Extra>
+      <Time>2015-05-17T14:10:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Score\The_Forest_Beckons_You_sans_Wind.mp3</Source>
+      <Name>Score\The_Forest_Beckons_You_sans_Wind</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\The_Forest_Beckons_You_sans_Wind.xnb</Output>
+      <Extra>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\The_Forest_Beckons_You_sans_Wind.wma</Extra>
+      <Time>2015-05-17T14:10:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Score\Beyond_the_Horizon.mp3</Source>
+      <Name>Score\Beyond_the_Horizon</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Beyond_the_Horizon.xnb</Output>
+      <Extra>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Beyond_the_Horizon.wma</Extra>
+      <Time>2015-05-17T14:25:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\MenuConfirm.wav</Source>
+      <Name>SFXs\MenuConfirm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuConfirm.xnb</Output>
+      <Time>2015-05-17T16:24:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\MenuDecline.wav</Source>
+      <Name>SFXs\MenuDecline</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuDecline.xnb</Output>
+      <Time>2015-05-17T16:24:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\MenuMovement.wav</Source>
+      <Name>SFXs\MenuMovement</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuMovement.xnb</Output>
+      <Time>2015-05-17T16:24:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\MenuPause.wav</Source>
+      <Name>SFXs\MenuPause</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuPause.xnb</Output>
+      <Time>2015-05-17T16:24:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\NpcBear.wav</Source>
+      <Name>SFXs\NpcBear</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcBear.xnb</Output>
+      <Time>2015-05-17T16:24:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\NpcDog.wav</Source>
+      <Name>SFXs\NpcDog</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcDog.xnb</Output>
+      <Time>2015-05-17T16:24:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\NpcEnemy.wav</Source>
+      <Name>SFXs\NpcEnemy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcEnemy.xnb</Output>
+      <Time>2015-05-17T16:24:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\NpcFollower.wav</Source>
+      <Name>SFXs\NpcFollower</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcFollower.xnb</Output>
+      <Time>2015-05-17T16:24:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\NpcGuard.wav</Source>
+      <Name>SFXs\NpcGuard</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcGuard.xnb</Output>
+      <Time>2015-05-17T16:24:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\PlayerCaught.wav</Source>
+      <Name>SFXs\PlayerCaught</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerCaught.xnb</Output>
+      <Time>2015-05-17T16:24:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\PlayerDoor.wav</Source>
+      <Name>SFXs\PlayerDoor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerDoor.xnb</Output>
+      <Time>2015-05-17T16:24:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\PlayerInteract.wav</Source>
+      <Name>SFXs\PlayerInteract</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerInteract.xnb</Output>
+      <Time>2015-05-17T16:24:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\PlayerItem.wav</Source>
+      <Name>SFXs\PlayerItem</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerItem.xnb</Output>
+      <Time>2015-05-17T16:24:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXs\PlayerLamp.wav</Source>
+      <Name>SFXs\PlayerLamp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerLamp.xnb</Output>
+      <Time>2015-05-17T16:24:38+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 ADContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 ADContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-26T15:51:12.9217836+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

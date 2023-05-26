@@ -1,0 +1,595 @@
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+I:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+I:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+I:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+I:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+I:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+I:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+I:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver0.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver0.9\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\ForestTestMap.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.1\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.2\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.3\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\3sprite.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\3sprite.xnb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.4\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\3sprite.xnb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.5\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugActor.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugRef.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\3sprite.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.6\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\MapHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\3sprite.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\MapHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\MapCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\BackgroundCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\BackgroundHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.7\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugBlock.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugBlock.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\3sprite.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\MapHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\MapCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\BackgroundCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\BackgroundHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver1.8\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugBlock.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\MapHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\MapCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\BackgroundHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\BackgroundCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Effects\LightShader.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\lightaura.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\BlankScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\MainMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\StarSS.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\menuFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\HintFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\PauseMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\InnerBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\OutterBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\lampImage.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\PotatoSmoke.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\menuFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\HintFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\DebugBlock.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile03.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\DebugSprites\tile00.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\MapHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\MapCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\BackgroundHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\BackgroundCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\lightaura.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\BlankScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\MainMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\StarSS.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\PauseMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\InnerBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\OutterBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\lampImage.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\PotatoSmoke.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Effects\LightShader.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Adrift_in_the_Cosmos.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Quiet_Breeches_in_Space.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\The_Forest_Beckons_You_sans_Wind.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Beyond_the_Horizon.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Adrift_in_the_Cosmos.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Quiet_Breeches_in_Space.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\The_Forest_Beckons_You_sans_Wind.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Beyond_the_Horizon.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuConfirm.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuDecline.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuMovement.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuPause.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcBear.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcDog.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcEnemy.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcFollower.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcGuard.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\Objective.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerCaught.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerDoor.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerEnd.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerInteract.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerItem.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - Music\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerLamp.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\menuFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\HintFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\MapHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\MapCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\BackgroundHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\BackgroundCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\lightaura.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\BlankScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\MainMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\StarSS.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\PauseMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\InnerBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\OutterBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\lampImage.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\PotatoSmoke.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Cave\BackgroundCave01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Cave\MapCave01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Effects\LightShader.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Adrift_in_the_Cosmos.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Quiet_Breeches_in_Space.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\The_Forest_Beckons_You_sans_Wind.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Beyond_the_Horizon.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuConfirm.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuDecline.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuMovement.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuPause.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcBear.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcDog.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcEnemy.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcFollower.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcGuard.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerCaught.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerDoor.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerInteract.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerItem.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerLamp.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Adrift_in_the_Cosmos.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Quiet_Breeches_in_Space.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\The_Forest_Beckons_You_sans_Wind.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Beyond_the_Horizon.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Camp\MapCamp01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\BackgroundDiary01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary00.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary04.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary06.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary08.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary10.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\AmmoGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\AmmoHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\HatGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\HatHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\JacketGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\JacketHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\LampGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\LampHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\Map01Gone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\Map01Here.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\Map02Gone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\Map02Here.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\PickaxeGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\PickaxeHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\RadioGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\RadioHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\SamHatGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X Items\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\SamHatHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\debugFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\menuFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Fonts\HintFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\MapHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\MapCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\House\BackgroundHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\City\BackgroundCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\lightaura.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\BlankScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\MainMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\StarSS.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\PauseMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\InnerBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Interface\OutterBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\lampImage.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\PotatoSmoke.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Cave\BackgroundCave01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Cave\MapCave01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Camp\MapCamp01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\BackgroundDiary01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary00.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary04.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary06.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary08.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\Levels\Diary\MapDiary10.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\AmmoGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\AmmoHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\HatGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\HatHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\JacketGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\JacketHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\LampGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\LampHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\Map01Gone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\Map01Here.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\Map02Gone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\Map02Here.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\PickaxeGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\PickaxeHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\RadioGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\RadioHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\SamHatGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Sprites\ItemSprites\SamHatHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Effects\LightShader.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Adrift_in_the_Cosmos.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Quiet_Breeches_in_Space.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\The_Forest_Beckons_You_sans_Wind.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Beyond_the_Horizon.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuConfirm.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuDecline.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuMovement.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\MenuPause.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcBear.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcDog.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcEnemy.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcFollower.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\NpcGuard.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerCaught.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerDoor.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerInteract.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerItem.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\SFXs\PlayerLamp.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Adrift_in_the_Cosmos.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Quiet_Breeches_in_Space.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\The_Forest_Beckons_You_sans_Wind.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Content\Score\Beyond_the_Horizon.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Debug\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Debug\Graded Unit 2 AD.pdb

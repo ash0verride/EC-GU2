@@ -1,0 +1,239 @@
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\menuFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\TitleFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\HintFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\House\MapHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\City\MapCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\House\BackgroundHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\City\BackgroundCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\lightaura.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\BlankScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\MainMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\StarSS.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\PauseMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\InnerBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\OutterBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\lampImage.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PotatoSmoke.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Cave\BackgroundCave01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Cave\MapCave01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Camp\MapCamp01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\BackgroundDiary01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary00.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary04.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary06.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary08.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary10.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\AmmoGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\AmmoHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\HatGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\HatHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\JacketGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\JacketHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\LampGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\LampHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map01Gone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map01Here.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map02Gone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map02Here.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PickaxeGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PickaxeHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\RadioGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\RadioHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\SamHatGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\SamHatHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Effects\LightShader.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Adrift_in_the_Cosmos.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Quiet_Breeches_in_Space.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\The_Forest_Beckons_You_sans_Wind.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Beyond_the_Horizon.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuConfirm.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuDecline.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuMovement.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuPause.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcBear.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcDog.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcEnemy.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcFollower.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcGuard.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerCaught.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerDoor.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerInteract.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerItem.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerLamp.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Adrift_in_the_Cosmos.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Quiet_Breeches_in_Space.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\The_Forest_Beckons_You_sans_Wind.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Beyond_the_Horizon.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0 - X SS and Coms\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\House\MapHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\City\MapCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\House\BackgroundHouse01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\City\BackgroundCity01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\lightaura.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\BlankScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\MainMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\StarSS.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\PauseMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\InnerBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\OutterBar.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\lampImage.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PotatoSmoke.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Cave\BackgroundCave01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Cave\MapCave01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Camp\MapCamp01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\BackgroundDiary01.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary00.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary02.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary04.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary06.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary08.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary10.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\AmmoGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\AmmoHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\HatGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\HatHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\JacketGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\JacketHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\LampGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\LampHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map01Gone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map01Here.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map02Gone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map02Here.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PickaxeGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PickaxeHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\RadioGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\RadioHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\SamHatGone.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\SamHatHere.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\menuFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\TitleFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\HintFont.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Effects\LightShader.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Adrift_in_the_Cosmos.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Quiet_Breeches_in_Space.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\The_Forest_Beckons_You_sans_Wind.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Beyond_the_Horizon.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuConfirm.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuDecline.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuMovement.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuPause.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcBear.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcDog.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcEnemy.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcFollower.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcGuard.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerCaught.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerDoor.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerInteract.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerItem.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerLamp.xnb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Adrift_in_the_Cosmos.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Quiet_Breeches_in_Space.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\The_Forest_Beckons_You_sans_Wind.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Beyond_the_Horizon.wma
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Ver2.0 - XX Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnLeft01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnFront01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnLeft02.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\CharacterSS\AutumnFront02.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Forest\BackgroundForest01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Forest\MapForest01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\House\MapHouse01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\City\MapCity01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\House\BackgroundHouse01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\City\BackgroundCity01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\lightaura.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\BlankScreen.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\MainMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\StarSS.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\PauseMenuScreen.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\InnerBar.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Interface\OutterBar.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\lampImage.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PotatoSmoke.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Cave\BackgroundCave01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Cave\MapCave01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Camp\MapCamp01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\BackgroundDiary01.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary00.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary02.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary04.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary06.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary08.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\Levels\Diary\MapDiary10.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\AmmoGone.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\AmmoHere.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\HatGone.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\HatHere.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\JacketGone.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\JacketHere.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\LampGone.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\LampHere.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map01Gone.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map01Here.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map02Gone.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\Map02Here.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PickaxeGone.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\PickaxeHere.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\RadioGone.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\RadioHere.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\SamHatGone.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Sprites\ItemSprites\SamHatHere.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\npcFont.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\menuFont.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\TitleFont.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Fonts\HintFont.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Effects\LightShader.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Adrift_in_the_Cosmos.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Quiet_Breeches_in_Space.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\The_Forest_Beckons_You_sans_Wind.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Beyond_the_Horizon.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuConfirm.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuDecline.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuMovement.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\MenuPause.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcBear.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcDog.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcEnemy.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcFollower.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\NpcGuard.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerCaught.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerDoor.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerInteract.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerItem.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\SFXs\PlayerLamp.xnb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Adrift_in_the_Cosmos.wma
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Quiet_Breeches_in_Space.wma
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\The_Forest_Beckons_You_sans_Wind.wma
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Content\Score\Beyond_the_Horizon.wma
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\bin\x86\Release\Graded Unit 2 AD.pdb
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Graded Unit 2 AD.csprojResolveAssemblyReference.cache
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Graded Unit 2 AD.exe
+F:\Graded Unit 2\Development\Code\Final\Graded Unit 2 AD\Graded Unit 2 AD\Graded Unit 2 AD\obj\x86\Release\Graded Unit 2 AD.pdb
